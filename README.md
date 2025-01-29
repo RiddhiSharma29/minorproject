@@ -1,2 +1,1 @@
-# minorproject
-Minor Project on E-commerce company lenskart
+Minor Project link: https://ecommerce-lenskart-minorproject.netlify.app/
