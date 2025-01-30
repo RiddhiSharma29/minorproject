@@ -1,1 +1,1 @@
-Minor Project link: https://ecommerce-lenskart-minorproject.netlify.app/
+Minor Project link: https://ecommerce-lenskart.netlify.app/
